@@ -1,0 +1,14 @@
+li {
+    list-style: none;
+    border: 1px solid black;
+    text-align: start;
+    margin-bottom: 16px;
+    padding: 16px;
+    min-width: 100%;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
